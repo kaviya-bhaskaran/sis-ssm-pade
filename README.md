@@ -25,8 +25,18 @@ This repository accompanies a PNAS submission and contains three files enabling 
   - `tRef`: 1001×1 reference time grid.  
   - `zRef`: 1001×200 reference trajectories.  
   - `z0_full`: 200×1 initial state.
-
 ---
+
+### 🌐 Extended Models
+This repository also includes additional networked dynamical systems analyzed in the manuscript:
+
+- **`GLV_er_ts.mlx`** – Generalized Lotka–Volterra dynamics on an ER network.  
+- **`GRN_er_ts.mlx`** – Gene regulatory (activation–repression) dynamics.  
+- **`LWD_er_ts.mlx`** – Logistic–diffusive oscillator network.
+
+Each Live Script follows the same structure —  
+**full simulation → SSM reduction → time-series visualization** —  
+and can be adapted to other topologies (e.g., Scale-Free, Small-World) simply by replacing the adjacency matrix `A`.
 
 ## ⚙️ Requirements
 
