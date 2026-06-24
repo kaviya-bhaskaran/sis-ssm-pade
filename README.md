@@ -1,6 +1,6 @@
 # Reproducible Code — SIS on ER with SSM-Based Reduction (Spectral Submanifolds) and Taylor → Padé
 
-This repository accompanies a PNAS submission and contains three files enabling reproducible demonstrations of SIS dynamics on Erdős–Rényi (ER) networks with **Spectral Submanifold (SSM)–based reduction** and Taylor → Padé approximation.
+This repository accompanies article entitled "Nonlinear Model Reduction of Complex Networks via Spectral Submanifolds" and contains three files enabling reproducible demonstrations of SIS dynamics on Erdős–Rényi (ER) networks with **Spectral Submanifold (SSM)–based reduction** and Taylor → Padé approximation.
 
 ---
 
