@@ -98,7 +98,7 @@ savepath;  % optional, persist path
 
 ## 📚 Citation
 
-Please cite the PNAS article once available. If you reuse the reduction methodology, also cite **SSMTool**:
+Please cite the article once available. If you reuse the reduction methodology, also cite **SSMTool**:
 
 - Ponsioen, S., Jain, S., & Haller, G. (2018). *SSMtool: Automated computation of spectral submanifolds and reduced dynamics in nonlinear mechanical systems.* (Technical report / preprint).  
 - Haller Group. *SSMTool 2.x: Computation of invariant manifolds in high-dimensional mechanics problems.* Zenodo. https://doi.org/10.5281/zenodo.4614202  
