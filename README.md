@@ -1,4 +1,4 @@
-# Selected reproducibility demonstrations for nonlinear network reduction
+# Reproducibility demonstrations for nonlinear network reduction
 
 This repository contains selected Erdős–Rényi (ER) network reproducibility demonstrations associated with the accepted Physical Review E article "Nonlinear Model Reduction of Complex Networks via Spectral Submanifolds." It does not reproduce every figure or every analysis in the article.
 
