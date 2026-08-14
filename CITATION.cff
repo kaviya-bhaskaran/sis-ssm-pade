@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "Nonlinear Model Reduction of Complex Networks via Spectral Submanifolds"
+type: software
+authors:
+  - family-names: Bhaskaran
+    given-names: Kaviya
+  - family-names: Jain
+    given-names: Shobhit
+  - family-names: Li
+    given-names: Mingwu
+repository-code: "https://github.com/kaviya-bhaskaran/sis-ssm-pade"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Bhaskaran
+      given-names: Kaviya
+    - family-names: Jain
+      given-names: Shobhit
+    - family-names: Li
+      given-names: Mingwu
+  title: "Nonlinear Model Reduction of Complex Networks via Spectral Submanifolds"
+  journal: "Physical Review E"
+  year: 2026
+  doi: "10.1103/gp7d-fsk5"
